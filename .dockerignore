@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.db
-.venv/
-venv/
-.git/
-PROJECT_SPEC.md
